@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Room Calculator\bin\Debug\net8.0\Room Calculator.exe
+C:\Users\Administrator\source\repos\Room Calculator\bin\Debug\net8.0\Room Calculator.deps.json
+C:\Users\Administrator\source\repos\Room Calculator\bin\Debug\net8.0\Room Calculator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Room Calculator\bin\Debug\net8.0\Room Calculator.dll
+C:\Users\Administrator\source\repos\Room Calculator\bin\Debug\net8.0\Room Calculator.pdb
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\Room Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\Room Calculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\Room Calculator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\Room Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\Room Calculator.dll
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\refint\Room Calculator.dll
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\Room Calculator.pdb
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\Room Calculator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Room Calculator\obj\Debug\net8.0\ref\Room Calculator.dll
